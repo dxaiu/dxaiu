@@ -1,4 +1,4 @@
-<p align="center"><img src="header.png"></p>
+<p align="center"><img src="./header.png"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dxaiu&label=Profile%20views&color=0e75b6&style=flat" alt="dxaiu" /> <img src="https://visitor-badge.glitch.me/badge?page_id=dxaiu.profile" alt="dxaiu" /></p>
 
 ## Who Am I ?
