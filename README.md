@@ -13,6 +13,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我和我的祖国](https://www.dxain.ml/zh-cn/myself-china.html)
+- [Promise 杂谈](https://www.dxain.ml/zh-cn/talk-promise.html)
+- [滚滚红尘，一个转身就是陌路天涯；虚拟网络，一个删除就是再无交集！](https://www.dxain.ml/zh-cn/vr-net.html)
+- [迟来的2018总结](https://www.dxain.ml/zh-cn/sum-of-2018.html)
+- [Vue响应式原理](https://www.dxain.ml/zh-cn/vue-response-principle.html)
 <!-- BLOG-POST-LIST:END -->
 [![MyHomepage](	https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dxain.ml)
 [![MyBlog](	https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white)](https://dxain.ml)
