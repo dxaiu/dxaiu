@@ -13,11 +13,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [我和我的祖国](https://www.dxain.ml/zh-cn/myself-china.html)
-- [JavaScript之再学习](https://www.dxain.ml/zh-cn/js-base-learn.html)
-- [JavaScript基础教程](https://www.dxain.ml/zh-cn/js-base.html)
-- [Promise 杂谈](https://www.dxain.ml/zh-cn/talk-promise.html)
-- [滚滚红尘，一个转身就是陌路天涯；虚拟网络，一个删除就是再无交集！](https://www.dxain.ml/zh-cn/vr-net.html)
+- [linux磁盘空间用满的处理方法](https://www.dxain.ml/zh-cn/linux-handle-full.html)
+- [Linux命令-mv](https://www.dxain.ml/zh-cn/linux-check-mv.html)
+- [使用yum安装LAMP](https://www.dxain.ml/zh-cn/linux-open-lamp.html)
+- [Linux命令-rmdir](https://www.dxain.ml/zh-cn/linux-check-rmdir.html)
+- [Linux命令-rm](https://www.dxain.ml/zh-cn/linux-check-rm.html)
 <!-- BLOG-POST-LIST:END -->
 [![MyHomepage](	https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dxain.ml)
 [![MyBlog](	https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white)](https://dxain.ml)
